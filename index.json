@@ -1,8 +1,11 @@
 {
   "authors": [
     {
-      "id": 0,
-      "name": "pirateaba"
+      "id": -1276479641,
+      "name": "pirateaba",
+      "desc": "Worked on The Wandering Inn",
+      "imageURL": "",
+      "website": ""
     }
   ],
   "libraries": [],
@@ -15,6 +18,7 @@
       "lang": "eng",
       "ver": "1.0.0",
       "libVer": "1.0.0",
+      "md5": "95abbf7109423ac59f6506d3f2ad0a7d00f78f4ca31184cea9e2cc8010689213",
       "type": "LuaScript"
     }
   ],
