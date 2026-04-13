@@ -20,7 +20,7 @@ return {
     id = 1842947661,
     name = "The Wandering Inn",
     baseURL = baseURL,
-    imageURL = "",
+    imageURL = "https://wanderinginn.com/wp-content/uploads/2016/11/erin-150x150.png",
     chapterType = ChapterType.HTML,
 
     listings = {
@@ -29,7 +29,7 @@ return {
                 Novel {
                     title = "The Wandering Inn",
                     link = "/table-of-contents/",
-                    imageURL = ""
+                    imageURL = "https://wanderinginn.com/wp-content/uploads/2026/03/3.png"
                 }
             }
         end)
@@ -43,7 +43,7 @@ return {
 
         local novel = NovelInfo {
             title = "The Wandering Inn",
-            imageURL = "",
+            imageURL = "https://wanderinginn.com/wp-content/uploads/2026/03/3.png",
             description = "An old inn by the road. A girl who fell into another world. A story that won't end.\n\nThe Wandering Inn is a web serial by pirateaba.",
             authors = { "pirateaba" },
             genres = { "Fantasy", "Adventure" },

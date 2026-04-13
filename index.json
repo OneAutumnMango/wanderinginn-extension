@@ -14,11 +14,11 @@
       "id": 1842947661,
       "name": "The Wandering Inn",
       "fileName": "WanderingInn",
-      "imageURL": "",
+      "imageURL": "https://wanderinginn.com/wp-content/uploads/2016/11/erin-150x150.png",
       "lang": "eng",
       "ver": "1.0.0",
       "libVer": "1.0.0",
-      "md5": "95abbf7109423ac59f6506d3f2ad0a7d00f78f4ca31184cea9e2cc8010689213",
+      "md5": "ac2d98961f24a583c3c87bda4ba32613abd90bde337c32128ce158178360c3e5",
       "type": "LuaScript"
     }
   ],
